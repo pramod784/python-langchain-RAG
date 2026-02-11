@@ -1,0 +1,95 @@
+Name : Pramod Kashinath Yewale
+Designation : Technical Architect, Microland Ltd.
+JOB OBJECTIVE : Possess a background as a Technical Architect, accumulating above 10 Years of diverse experience in Back-end Development, Software Architecture and GenerativeAI. focused on delivering impactful solutions and exploring ways to leverage expertise in cloud technologies and application design within a forward-thinking IT organization.
+PROFILE SUMMARY : •	Experienced in cloud technologies and microservices architecture, with a proven track record of designing scalable, high-performance systems tailored to complex business needs.
+•	Currently leading end-to-end solution design and implementation at Microland Limited, delivering enterprise-grade cloud-native applications that align with business objectives and performance benchmarks.  
+•	Successfully led application architecture design and implementation at Microland Limited, ensuring seamless integration and optimal system performance across multiple projects.
+•	Designed and implemented a Retrieval-Augmented Generation (RAG)–based Generative AI chatbot enabling accurate question answering and customized brand-specific image generation, leveraging Azure OpenAI, Azure AI Search, and Azure Blob Storage.
+•	Holds certifications in VAPT for two consecutive years, showcasing a strong commitment to application security, compliance, and risk mitigation.
+•	Showcased deep expertise in AWS services, including MSK, API Gateway, and EKS, enabling the deployment of robust and scalable cloud-based solutions.
+•	Spearheaded a transformational project that reduced system downtime to just 1% through effective use of auto-scaling and resource optimization techniques.
+•	Possesses strong proficiency in RESTful API design and microservices communication, ensuring seamless integration across distributed application components.
+•	Known for leadership and team-building, actively encourages innovation, mentorship, and a culture of continuous improvement to drive project success.
+
+
+CORE COMPETENCIES
+•	Software Architecture Design
+•	Cloud Infrastructure Management
+•	Application Performance Tuning
+•	GenerativeAI with MS Azure
+•	System Integration 
+•	Agile Project Management
+•	Security Best Practices
+•	Database Optimization 
+•	Microservices Communication 
+•	Continuous Integration 
+•	User Acceptance Testing (UAT)
+
+
+TECHNICAL SKILLS
+ 
+
+
+	CONTACT
+
+ 	+91-9423777503
+ 	yewalepramod50@gmail.com
+ 	Mumbai – 421201, Maharashtra 
+ 	linkedin.com/pramod-yewale
+
+ 	pramodyewale.in
+
+ 	github.com/pramod784
+
+
+
+	EDUCATION
+
+ 
+2015
+MCA (Master of Computer Application)
+Savitribai Phule Pune University, Pune
+
+
+2011
+B.Sc. (Computer Science)
+North Maharashtra University, Jalgaon
+
+
+	CORE COMPETENCIES
+
+•	Software Architecture Design
+•	Cloud Infrastructure Management
+•	Application Performance Tuning
+•	GenerativeAI with MS Azure
+•	System Integration 
+•	Agile Project Management
+•	Security Best Practices
+•	Database Optimization 
+•	Microservices Communication 
+•	Continuous Integration 
+•	User Acceptance Testing (UAT)
+
+
+TECHNICAL SKILLS 
+    Cloud Platforms & AI Services: 
+    AWS: API Gateway, EKS, ECS, ECR, MSK, Secrets Manager
+    Azure: Azure OpenAI, Azure AI Search
+    AI Concepts: Vector Embeddings, Semantic Search, Retrieval-Augmented Generation (RAG)
+
+    Programming Languages: PHP, Node.js, Python
+
+    Frameworks & Libraries: NestJS, Nextjs, ExpressJs, MVC PHP Frameworks
+
+    Database Technologies: MySQL, MongoDB, SQL, NoSQL, Elastic Search
+
+    API Technologies: RESTful APIs, GraphQL, Aarogya Setu OpenAPI, Interactive IVR APIs, Flash news APIs
+    DevOps & Deployment: CI/CD Pipelines, Docker, Kubernetes, Ubuntu Servers
+
+    Authentication & Access Control: Facial Recognition Terminals, Biometrics, RFID, QR Codes
+
+
+    CMS & E-commerce:  WordPress, Magento
+
+    Stock Market & Financial APIs:
+    NSE/BSE Premium APIs

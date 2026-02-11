@@ -1,0 +1,60 @@
+WORK EXPERIENCE
+Mar'2022 to Present	
+Technical Architect
+Microland Limited, Bangalore, Karnataka
+Role:
+•	Spearheading the design and development of application modules by analyzing business requirements and ensuring alignment with architectural goals.
+•	Administering the implementation of CI/CD pipelines to automate deployment processes, enhancing release efficiency and reliability.
+•	Architecting and managing cloud infrastructure to optimize application performance, scalability, and resilience.
+•	Conducting codebase analyses to identify optimization opportunities and executing bug fixes to improve system stability.
+•	Developing and deploying microservices with modular and scalable architecture following best practices.
+•	Participating actively in Agile ceremonies such as sprint planning, daily stand-ups, and retrospectives to support timely delivery and continuous improvement.
+
+
+Achievements:
+•	Reduced VAPT issues from 70% to 10% over 2 years, improving security compliance and application integrity.
+•	Achieved system downtime reduction to 1% by implementing auto-scaling mechanisms, enhancing application availability and user experience.
+•	Designed and implemented a flexible API-based system for mobile applications, streamlining user interactions and boosting functionality.
+•	Recognized for strong adaptability, problem-solving, and collaboration skills, receiving commendations from management and peers for contributing to project success.
+
+
+Mar'2018 to Mar'2022	
+Full Stack Engineer
+Kaleido Solutech Private Limited, Vile Parle, Mumbai
+Role:
+•	Led the development and architectural design of a SaaS-based product, aligning features with evolving market needs and technological trends.
+•	Integrated advanced access control technologies including facial recognition, biometrics, RFID, and QR codes to strengthen authentication and security.
+•	Managed complex booking systems for seating and parking, ensuring seamless and efficient user experiences.
+•	Implemented third-party API integrations such as Interactive IVR and Aarogya Setu OpenAPI to expand product functionality and user engagement.
+•	Collaborated with cross-functional teams for requirements gathering, solution design, and on-time delivery of high-quality software products.
+•	Mentored junior developers, conducted testing and debugging, and promoted best practices to ensure robust, maintainable code.
+•	Spearheaded the migration of legacy systems to cloud-based architecture, resulting in enhanced performance and reduced operational costs.
+Achievements:
+•	Successfully delivered a high-impact SaaS product that garnered positive feedback from clients, contributing to increased market share and revenue growth.
+•	Enhanced user authentication processes through the integration of advanced security measures, resulting in a significant reduction in unauthorized access incidents.
+•	Recognized for exceptional problem-solving skills and innovative thinking, contributing to the successful launch of multiple product features.
+•	Played a key role in fostering a culture of collaboration and knowledge sharing within the development team, enhancing overall team performance.
+
+
+May'2016 to Feb'2018	
+Software Developer
+Neosoft Technologies, Dadar, Mumbai
+Role:
+•	Contributed to client-side application development in a CMMI-Level 5 environment, adhering to industry standards and best practices across LMS, ERP, and media projects.
+•	Re-engineered legacy products to enhance functionality, integrated stock market tickers using premium APIs, and implemented payment gateways like CCAvenue and PayPal.
+•	Played a vital role in migrating applications to cloud infrastructure, improving scalability, reducing maintenance costs, and boosting system performance.
+•	Conducted thorough testing, debugging, and implemented automated testing frameworks, accelerating QA processes and enhancing software quality.
+•	Participated in code reviews, provided technical support to clients, and collaborated with cross-functional teams to ensure timely and high-quality project delivery.
+Achievements:
+•	Successfully re-engineered a white-label product enabling customized subdomain creation and rapid code deployment within 10 minutes, boosting operational efficiency.
+•	Developed ticker tools and flash news APIs for a TV channel, improving user engagement and content delivery.
+•	Played a key role in rigorous testing, debugging, and timely delivery of multiple projects, earning positive feedback from clients and stakeholders.
+
+
+May'2015 to Feb'2016	
+Web Developer
+Waintech Private Limited, Andheri, Mumbai 
+Role:
+•	Developed web applications using MVC PHP frameworks and RESTful APIs, and managed WordPress/WooCommerce projects to enhance site functionality.
+•	Set up and maintained Ubuntu-based servers, ensuring smooth deployment and operational efficiency.
+•	Collaborated with senior developers on feature implementation, debugging, and code reviews to improve overall code quality and performance.
